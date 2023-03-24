@@ -12,5 +12,10 @@ public class JavaApplication2 {
         if (numero1 != numero2) {
             System.out.println(numero1 + " != " + numero2 + "\t! = DIFERENTE");
         }
+        
+        
+        if (numero1 < numero2) {
+            System.out.println(numero1 + " < " + numero2 + "\t< MENOR");
+        }
     }
     }
