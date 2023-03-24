@@ -1,3 +1,4 @@
+
 package javaapplication2;
 import java.util.Scanner;
 public class JavaApplication2 {
@@ -21,5 +22,8 @@ public class JavaApplication2 {
         if (numero1 <= numero2) {
             System.out.println(numero1 + " <= " + numero2 + "\t< = MENOR O IGUAL");
         }
+    
     }
+    
     }
+    
