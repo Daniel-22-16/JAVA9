@@ -8,5 +8,9 @@ public class JavaApplication2 {
         int numero1 = sc.nextInt();
         System.out.print("Ingrese el segundo número: ");
         int numero2 = sc.nextInt();
+        
+        if (numero1 != numero2) {
+            System.out.println(numero1 + " != " + numero2 + "\t! = DIFERENTE");
+        }
     }
     }
